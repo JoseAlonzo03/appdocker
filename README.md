@@ -33,13 +33,13 @@ El objetivo principal es demostrar el proceso completo desde la administración 
 
 # Estructura del proyecto
 appdocker/
-  app.py
-  Dockerfile
-  README.md
+-app.py
+-Dockerfile
+-README.md
 
-  .github/
-  workflows/
-  main.yml
+.github/
+-workflows/
+-main.yml
 
 
 # Descripción de archivos
